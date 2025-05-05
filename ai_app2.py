@@ -3,7 +3,7 @@ import dashscope
 from dashscope import Generation
 
 # Set API key and base URL
-DASHSCOPE_API_KEY = 'sk-8562322a046f4a0298e5cbff98f01598'
+DASHSCOPE_API_KEY = 'Your API KEY'
 dashscope.base_http_api_url = 'https://dashscope-intl.aliyuncs.com/api/v1'
 
 # Model lists by category
